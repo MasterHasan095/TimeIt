@@ -1,0 +1,11 @@
+{
+  "name": "timeit",
+  "version": "1.0.0",
+  "description": "A project to schedule and view employee shifts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasan Master",
+  "license": "ISC"
+}
